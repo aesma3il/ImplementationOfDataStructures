@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abu-HandhoudCoursesAllInOne\\ImplementationOfDataStructures\\08_ImplementingCircularLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C14AEE-0F4C-425F-9262-E37DA6CB3230}|08_ImplementingCircularLinkedList.vcxproj|D:\\Abu-HandhoudCoursesAllInOne\\ImplementationOfDataStructures\\08_ImplementingCircularLinkedList\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73C14AEE-0F4C-425F-9262-E37DA6CB3230}|08_ImplementingCircularLinkedList.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Abu-HandhoudCoursesAllInOne\\ImplementationOfDataStructures\\08_ImplementingCircularLinkedList\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "D:\\Abu-HandhoudCoursesAllInOne\\ImplementationOfDataStructures\\08_ImplementingCircularLinkedList\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAuwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T00:37:54.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
