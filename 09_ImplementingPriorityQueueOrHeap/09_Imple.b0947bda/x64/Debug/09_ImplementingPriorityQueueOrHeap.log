@@ -1,0 +1,16 @@
+﻿  Source.cpp
+D:\Abu-HandhoudCoursesAllInOne\ImplementationOfDataStructures\09_ImplementingPriorityQueueOrHeap\Source.cpp(48,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+      D:\Abu-HandhoudCoursesAllInOne\ImplementationOfDataStructures\09_ImplementingPriorityQueueOrHeap\Source.cpp(48,31):
+      the template instantiation context (the oldest one first) is
+          D:\Abu-HandhoudCoursesAllInOne\ImplementationOfDataStructures\09_ImplementingPriorityQueueOrHeap\Source.cpp(86,24):
+          see reference to class template instantiation 'PriorityQueue<int>' being compiled
+          D:\Abu-HandhoudCoursesAllInOne\ImplementationOfDataStructures\09_ImplementingPriorityQueueOrHeap\Source.cpp(46,10):
+          while compiling class template member function 'void PriorityQueue<int>::insert(T)'
+          with
+          [
+              T=int
+          ]
+              D:\Abu-HandhoudCoursesAllInOne\ImplementationOfDataStructures\09_ImplementingPriorityQueueOrHeap\Source.cpp(88,14):
+              see the first reference to 'PriorityQueue<int>::insert' in 'main'
+  
+  09_ImplementingPriorityQueueOrHeap.vcxproj -> D:\Abu-HandhoudCoursesAllInOne\ImplementationOfDataStructures\09_ImplementingPriorityQueueOrHeap\x64\Debug\09_ImplementingPriorityQueueOrHeap.exe
