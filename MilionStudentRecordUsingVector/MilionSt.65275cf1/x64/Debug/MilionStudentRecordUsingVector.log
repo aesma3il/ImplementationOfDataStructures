@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Abu-HandhoudCoursesAllInOne\ImplementationOfDataStructures\MilionStudentRecordUsingVector\Source.cpp(151,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\ImplementationOfDataStructures\MilionStudentRecordUsingVector\Source.cpp(152,10): warning C4101: 'choice': unreferenced local variable
+  MilionStudentRecordUsingVector.vcxproj -> D:\Abu-HandhoudCoursesAllInOne\ImplementationOfDataStructures\MilionStudentRecordUsingVector\x64\Debug\MilionStudentRecordUsingVector.exe
